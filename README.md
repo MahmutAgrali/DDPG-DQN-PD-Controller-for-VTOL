@@ -18,8 +18,6 @@ title = {Deep Reinforcement Learning Based Controller Design for Model of The Ve
 author = {Ağralı, Mahmut and Soydemir, Mehmet Uğur and Gökçen, Alkım and Sahin, Savas} }
 ```
 
-@ MahmutAgrali
-
 - You can see the code that compares DQN, DDPG and PD based controller for the study in "compare_plot.m".
 
 - You can see the MATLAB code that finds metrics for DQN based controller in "DQN_find_metrics.m".
